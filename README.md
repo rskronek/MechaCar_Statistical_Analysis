@@ -3,7 +3,6 @@
 * From the below screenshot of linear model, we can conclude that around 71% of MPG predictions of MechaCar prototypes will be correct when using this model. 
 
 ![Chart](./linear_regrsn.png)
-
 ![Chart](./lin_rgr_summ.png)
 
 * The p-value result = 5.35e-11, so we can make a decision that for our data, the null hypothesis will be rejected.
@@ -17,7 +16,6 @@
 ![Chart](./tot_summary.png)
 
 * When we compare all the three lots for the PSI of the suspension coils, the variance between Lot 1 & 2 meet the requirement of the suspension coil under 100 pounds per square inch. Lot 3 has variance of 170.2861 ( which equal to 170.29), which do not  meet the specs per the PSI.
-
 ![Chart](./lot_summary.png)
 
 ## T-Tests on Suspension Coils
